@@ -70,7 +70,7 @@ The solution includes unit tests using JUnit 5 to cover:
 - Null and empty arrays
 - Arrays with no duplicates
 
-## Explanation
+### Explanation
 #### Test Class setUp & cleanUp:
 - `setUp` method with `@BeforeAll` annotation to run setup before all tests.
 - `cleanUp` method with `@AfterAll` annotation to run cleanup after all tests.
@@ -87,7 +87,10 @@ The solution includes unit tests using JUnit 5 to cover:
 - `should_ThrowIllegalArgumentException_When_ArrayIsNull`: Tests that an IllegalArgumentException is thrown when the array is null.
 - `should_ReturnCorrectCountAndModifiedArray_When_ArrayIsLarge`: Tests the case where the array is large and contains many duplicates.
 
-## Test Coverage:
+### Unit Test Output
+![img_2.png](img_2.png)
+
+## Test Coverage
 The unit tests achieve 100% code coverage for the `RemoveDuplicatesFromSortedArray` class, including all methods, lines, and branches, as shown in the coverage report.
 ![img_1.png](img_1.png)
 
