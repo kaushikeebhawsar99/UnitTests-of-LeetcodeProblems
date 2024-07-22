@@ -1,5 +1,11 @@
 # Unit test of Leetcode Problem: [Remove Duplicates from Sorted Array]
 
+---------------------------------------
+
+### Video Presentation: https://youtu.be/OhFDxMcZark
+### Document: available in github repo [Unit Tests for leetcode solution.pdf ]
+----------------------------------
+
 ## Problem Description
 Leetcode Problem - https://leetcode.com/problems/remove-duplicates-from-sorted-array/ 
 
@@ -94,5 +100,4 @@ The solution includes unit tests using JUnit 5 to cover:
 The unit tests achieve 100% code coverage for the `RemoveDuplicatesFromSortedArray` class, including all methods, lines, and branches, as shown in the coverage report.
 ![img_1.png](img_1.png)
 
-## Video Presentation
-[Link to video presentation explaining the algorithm and test cases]
+
