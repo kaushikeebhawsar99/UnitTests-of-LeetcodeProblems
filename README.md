@@ -1,5 +1,5 @@
-Unit test of Leetcode Problem: [Remove Duplicates from Sorted Array]
----------------------------------------
+# Unit test of Leetcode Problem: [Remove Duplicates from Sorted Array]
+
 
 ### Video Presentation: https://youtu.be/OhFDxMcZark
 ### Document available in github repo: [Unit Tests for leetcode solution.pdf ]
