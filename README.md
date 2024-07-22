@@ -3,7 +3,7 @@
 ---------------------------------------
 
 ### Video Presentation: https://youtu.be/OhFDxMcZark
-### Document: available in github repo [Unit Tests for leetcode solution.pdf ]
+### Document available in github repo: [Unit Tests for leetcode solution.pdf ]
 ----------------------------------
 
 ## Problem Description
